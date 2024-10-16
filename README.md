@@ -6,7 +6,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   
-![GIF](https://media.giphy.com/media/1zgvdrxG7lRkabGbwB/giphy.gif)
 
 The bot allows you to build your system of directories and subdirectories directly in the telegram.
 ## About  
